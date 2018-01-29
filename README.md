@@ -1,1 +1,1 @@
-# Altseed with Kotlin -
+# Altseed with Kotlin
