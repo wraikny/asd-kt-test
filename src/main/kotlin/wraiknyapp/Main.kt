@@ -1,4 +1,4 @@
-package com.github.wraikny.app
+package wraiknyapp
 
 fun isMac(): Boolean {
     return System.getProperty("os.name").toLowerCase().startsWith("mac")
