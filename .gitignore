@@ -1,0 +1,26 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Idea
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+
+# Gradle
+/build
+.gradle
+!gradle/wrapper/gradle-wrapper.jar
+
+# globs
+*.DS_Store
+*.tar.gz
+Thumbs.db
+
+# Mac bundle stuff
+*.dmg
+*.app
+
+# jar
+*.jar
