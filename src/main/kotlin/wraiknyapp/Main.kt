@@ -10,9 +10,6 @@ class Shikaku : asd.GeometryObject2D() {init {
     this.shape = rect
     this.position = asd.Vector2DF.DivideByScalar(asd.Engine.getWindowSize().To2DF(), 2.0f)
     this.color = asd.Color(255, 255, 255)
-
-    // Error
-    // val tmp = asd.Vector2DF(1.0f, 1.0f) / 1.0f
 }
 }
 
